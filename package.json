@@ -1,0 +1,12 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "In this project, we'll create a basic authentication API using Node.js, Express, and JSON Web Tokens (JWT). This API will have endpoints for user registration, login, and access to protected routes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express"," bcryptjs"," jsonwebtoken","body-parser","auth-api", "coderooz"],
+  "author": "",
+  "license": "ISC"
+}
