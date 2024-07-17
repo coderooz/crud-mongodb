@@ -65,7 +65,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ### Authors
 
-- **Ranit Saha** - *Initial work* - [Coderooz](https://github.com/your-username)
+- **Ranit Saha** - *Initial work* - [Coderooz](https://github.com/coderooz)
 
 ### License
 
